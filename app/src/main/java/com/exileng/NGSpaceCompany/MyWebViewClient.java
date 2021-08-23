@@ -1,4 +1,4 @@
-package com.example.app;
+package com.exileng.NGSpaceCompany;
 
 import android.content.Intent;
 import android.net.Uri;
